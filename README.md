@@ -1,6 +1,6 @@
 [![Vonubat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vonubat&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars Profile stats](https://www.codewars.com/users/Vonubat/badges/large)
+![Codewars Profile stats](https://www.codewars.com/users/vonubat/badges/large)
 
 <!--
 **Vonubat/Vonubat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
