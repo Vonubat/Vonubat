@@ -1,8 +1,7 @@
 [![Vonubat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vonubat&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars Profile stats](https://www.codewars.com/users/rsschool_vonubat/badges/large)
 
-<!--
+
 **Vonubat/Vonubat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
