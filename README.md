@@ -1,13 +1,21 @@
-### <div align="left">Hi, I'm Egor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px" height="24px"> Front-end Developer</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40c463&width=435&lines=Hi%2C+I'm+Egor;Front-end+Developer)](https://git.io/typing-svg)
 
 #### 🧙 About me:
+
 - 🔭 Now I'm looking for internship / job
 - 🌱 I’m currently learning front-end course at [RS School](https://rs.school/)
 - 🥊 Besides programming I'm fond of games, cooking, economics
 
-#### 📫 How to reach me: 
+#### 📫 How to reach me:
+
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="32px" height="32px">](mailto:vonubat@gmail.com)
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="32px" height="32px">](https://t.me/mortally_happy)
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" width="32px" height="32px">](https://discordapp.com/users/750047594432036885)
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Skype.svg" width="32px" height="32px">](https://join.skype.com/invite/oIbhH4O0J6H8)
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="32px" height="32px">](https://www.linkedin.com/in/egor-tabunov/)
 
 #### 👨‍💻 Technologies and tools:
+
 - HTML, CSS
 - JavaScript, TypeScript,
 - Node.js (Express, JSON-server, Puppeteer)
@@ -17,37 +25,21 @@
 - Jest, Unit / E2E testing
 - Bootstrap, Material-UI
 - Figma, Graphic editors
+- MongoDB
 <!--- - React, Next.js, Redux Toolkit, RTK Query-->
 
 #### 💾 Projects:
+
 - [RS Lang](https://vonubat.github.io/rs-lang/) - App for Learning English - [repo](https://github.com/Vonubat/rs-lang)
-- [Async-Race](https://shaqi-dev.github.io/async-race/) - Race Game SPA - [repo](https://github.com/shaqi-dev/async-race)
-- [Online Store](https://shaqi-dev.github.io/online-store/) - E-commerce SPA with e2e testing - [repo](https://github.com/shaqi-dev/online-store)
-- [News Portal](https://github.com/shaqi-dev/news-portal) - News Aggregator SPA - [repo](https://github.com/shaqi-dev/news-portal)
-- [Beer App](https://shaqi-dev.github.io/beer-app/) - Beer Catalog SPA - [repo](https://github.com/shaqi-dev/beer-app)
-- [React Auth](https://shaqi-dev.github.io/react-auth/) - Simple React Auth Form - [repo](https://github.com/shaqi-dev/react-auth)
-- [React Todo](https://shaqi-dev.github.io/react-todo/) - React Todo App with testing - [repo](https://github.com/shaqi-dev/react-todo)
-- [Virtual Keyboard](https://shaqi-dev.github.io/virtual-keyboard/) - Beautiful Virtual Keyboard SPA - [repo](https://github.com/shaqi-dev/virtual-keyboard)
-- [Mem Slider](https://shaqi-dev.github.io/css-mem-slider/css-mem-slider/) - Pure CSS Mem Slider - [repo](https://github.com/shaqi-dev/css-mem-slider)
-- [Shelter](https://shaqi-dev.github.io/shelter/shelter/pages/main/) - Landing Page with Responsive layout - [repo](https://github.com/shaqi-dev/shelter)
-- [Squeeze Backtest](https://www.tradingview.com/script/SnMzB7ZG-Squeeze-Backtest-by-Shaqi-v1-0/) - Trading Strategy script for TradingView - [repo](https://github.com/shaqi-dev/squeeze-backtest-for-tradingview)
+- [Async-Race](https://vonubat.github.io/async-race/) - Race Game SPA - [repo](https://github.com/Vonubat/async-race)
+- [Kulikov project](https://vonubat.github.io/kulikov-project/) - Kulikov project – the first freelance job. Landing page - [repo](https://github.com/Vonubat/kulikov-project)
+- [Online Store](https://vonubat.github.io/online-store/) - E-commerce SPA with e2e testing - [repo](https://github.com/Vonubat/online-store)
+- [News Portal](https://vonubat.github.io/news-portal) - News Aggregator SPA - [repo](https://github.com/Vonubat/news-portal)
+- [Shelter](https://vonubat.github.io/shelter) - Landing Page with Responsive layout - [repo](https://github.com/Vonubat/shelter)
+- [Virtual Keyboard](https://vonubat.github.io/virtual-keyboard/) - Virtual Keyboard SPA - [repo](https://github.com/Vonubat/virtual-keyboard)
+- [The Eisenhower Matrix](https://vonubat.github.io/eisenhower-matrix/) - The Eisenhower Matrix (to do list app) - [repo](https://github.com/Vonubat/eisenhower-matrix)
+- [Mem Slider](https://vonubat.github.io/css-mem-slider) - Pure CSS Mem Slider - [repo](https://github.com/Vonubat/css-mem-slider)
 
-
+#### 📊 My stats:
 
 [![Vonubat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vonubat&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-**Vonubat/Vonubat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
