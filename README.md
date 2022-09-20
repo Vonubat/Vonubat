@@ -31,7 +31,7 @@
 
 - [RS Lang](https://vonubat.github.io/rs-lang/) - App for Learning English - [repo](https://github.com/Vonubat/rs-lang)
 - [Async-Race](https://vonubat.github.io/async-race/) - Race Game SPA - [repo](https://github.com/Vonubat/async-race)
-- [Kulikov project](https://vonubat.github.io/kulikov-project/) - the first freelance job. Landing Page with responsive layout - [repo](https://github.com/Vonubat/kulikov-project)
+- [Kulikov project](https://vonubat.github.io/kulikov-project/) - The first freelance job. Landing Page with responsive layout - [repo](https://github.com/Vonubat/kulikov-project)
 - [Online Store](https://vonubat.github.io/online-store/) - E-commerce SPA with e2e testing - [repo](https://github.com/Vonubat/online-store)
 - [News Portal](https://vonubat.github.io/news-portal) - News Aggregator SPA - [repo](https://github.com/Vonubat/news-portal)
 - [Shelter](https://vonubat.github.io/shelter) - Landing Page with responsive layout - [repo](https://github.com/Vonubat/shelter)
