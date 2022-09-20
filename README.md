@@ -31,10 +31,10 @@
 
 - [RS Lang](https://vonubat.github.io/rs-lang/) - App for Learning English - [repo](https://github.com/Vonubat/rs-lang)
 - [Async-Race](https://vonubat.github.io/async-race/) - Race Game SPA - [repo](https://github.com/Vonubat/async-race)
-- [Kulikov project](https://vonubat.github.io/kulikov-project/) - Kulikov project – the first freelance job. Landing page - [repo](https://github.com/Vonubat/kulikov-project)
+- [Kulikov project](https://vonubat.github.io/kulikov-project/) - Kulikov project – the first freelance job. Landing Page with responsive layout - [repo](https://github.com/Vonubat/kulikov-project)
 - [Online Store](https://vonubat.github.io/online-store/) - E-commerce SPA with e2e testing - [repo](https://github.com/Vonubat/online-store)
 - [News Portal](https://vonubat.github.io/news-portal) - News Aggregator SPA - [repo](https://github.com/Vonubat/news-portal)
-- [Shelter](https://vonubat.github.io/shelter) - Landing Page with Responsive layout - [repo](https://github.com/Vonubat/shelter)
+- [Shelter](https://vonubat.github.io/shelter) - Landing Page with responsive layout - [repo](https://github.com/Vonubat/shelter)
 - [Virtual Keyboard](https://vonubat.github.io/virtual-keyboard/) - Virtual Keyboard SPA - [repo](https://github.com/Vonubat/virtual-keyboard)
 - [The Eisenhower Matrix](https://vonubat.github.io/eisenhower-matrix/) - The Eisenhower Matrix (to do list app) - [repo](https://github.com/Vonubat/eisenhower-matrix)
 - [Mem Slider](https://vonubat.github.io/css-mem-slider) - Pure CSS Mem Slider - [repo](https://github.com/Vonubat/css-mem-slider)
