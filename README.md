@@ -16,10 +16,9 @@
 
 #### 👨‍💻 Technologies and tools:
 
-- HTML, CSS
+- HTML, CSS, SASS, BEM,
 - JavaScript, TypeScript,
 - Node.js (Express, JSON-server, Puppeteer)
-- CSS Modules, Sass, styled components, BEM
 - HTTP, REST API, JWT, Postman, Swagger
 - Git, Webpack, ESLint, Prettier
 - Jest, Unit / E2E testing
