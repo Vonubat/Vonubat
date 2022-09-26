@@ -1,11 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40c463&width=435&lines=Hi%2C+I'm+Egor;Front-end+Developer)](https://git.io/typing-svg)
 
-#### 🧙 About me:
-
-- 🔭 Now I'm looking for internship / job
-- 🌱 I’m currently learning front-end course at [RS School](https://rs.school/)
-- 🥊 Besides programming I'm fond of games, cooking, economics
-
 #### 📫 How to reach me:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:vonubat@gmail.com)
@@ -14,7 +8,7 @@
 [<img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white">](https://join.skype.com/invite/oIbhH4O0J6H8)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/egor-tabunov/)
 
-#### 👨‍💻 Technologies and tools:
+#### 👨‍💻 Technologies & tools:
 
 - HTML, CSS, SASS, BEM,
 - JavaScript, TypeScript,
@@ -39,6 +33,8 @@
 - [The Eisenhower Matrix](https://vonubat.github.io/eisenhower-matrix/) - The Eisenhower Matrix (to do list app) - [repo](https://github.com/Vonubat/eisenhower-matrix)
 - [Mem Slider](https://vonubat.github.io/css-mem-slider) - Pure CSS Mem Slider - [repo](https://github.com/Vonubat/css-mem-slider)
 
-#### 📊 My stats:
+#### 📊 My stats & certificates:
+
+ - [RS School JavaScript/Front-end 2022Q1](https://app.rs.school/certificate/7zftoev0)
 
 [![Vonubat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vonubat&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
