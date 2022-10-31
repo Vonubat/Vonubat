@@ -12,17 +12,19 @@
 
 - HTML, CSS, SASS, BEM,
 - JavaScript, TypeScript,
+- React, Redux Toolkit, RTK Query
 - Node.js (Express, JSON-server, Puppeteer)
 - HTTP, REST API, JWT, Postman, Swagger
 - Git, Webpack, ESLint, Prettier
-- Jest, Unit / E2E testing
-- Bootstrap, Material-UI
-- Figma, Graphic editors
+- Jest, React testing library
+- Bootstrap, Material-UI, Tailwind
+- Figma, Photoshop
 - MongoDB
-<!--- - React, Next.js, Redux Toolkit, RTK Query-->
+
 
 #### 💾 Projects:
 
+- [Rick Morty Legacy](https://react-ram-app.netlify.app/) - React SPA based on the television show Rick and Morty for access to about hundreds of characters, images, locations and episodes - repo will be available soon 
 - [RS Lang](https://vonubat.github.io/rs-lang/) - App for Learning English - [repo](https://github.com/Vonubat/rs-lang)
 - [Async-Race](https://vonubat.github.io/async-race/) - Race Game SPA - [repo](https://github.com/Vonubat/async-race)
 - [Kulikov project](https://vonubat.github.io/kulikov-project/) - The first freelance job. Landing Page with responsive layout - [repo](https://github.com/Vonubat/kulikov-project)
