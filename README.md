@@ -24,7 +24,7 @@
 
 #### 💾 Projects:
 
-- [Rick Morty Legacy](https://react-ram-app.netlify.app/) - React SPA based on the television show Rick and Morty for access to about hundreds of characters, images, locations and episodes - repo will be available soon 
+- [Rick Morty Legacy](https://react-ram-app.netlify.app/) - React SPA based on the television show Rick and Morty for access to about hundreds of characters, images, locations and episodes - [repo](https://github.com/Vonubat/rick-morty-legacy)
 - [RS Lang](https://vonubat.github.io/rs-lang/) - App for Learning English - [repo](https://github.com/Vonubat/rs-lang)
 - [Async-Race](https://vonubat.github.io/async-race/) - Race Game SPA - [repo](https://github.com/Vonubat/async-race)
 - [Kulikov project](https://vonubat.github.io/kulikov-project/) - The first freelance job. Landing Page with responsive layout - [repo](https://github.com/Vonubat/kulikov-project)
