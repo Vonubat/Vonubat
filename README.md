@@ -39,5 +39,6 @@
 #### 📊 My stats & certificates:
 
  - [RS School JavaScript/Front-end 2022Q1](https://app.rs.school/certificate/7zftoev0)
+ - [RS School React 2022Q3](https://app.rs.school/certificate/b21fnep7)
 
 [![Vonubat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vonubat&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
