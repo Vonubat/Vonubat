@@ -36,9 +36,7 @@
 - [The Eisenhower Matrix](https://vonubat.github.io/eisenhower-matrix/) - The Eisenhower Matrix (to do list app) - [repo](https://github.com/Vonubat/eisenhower-matrix)
 - [Mem Slider](https://vonubat.github.io/css-mem-slider) - Pure CSS Mem Slider - [repo](https://github.com/Vonubat/css-mem-slider)
 
-#### 📊 My stats & certificates:
+#### 📊 My certificates:
 
  - [RS School JavaScript/Front-end 2022Q1](https://app.rs.school/certificate/7zftoev0)
  - [RS School React 2022Q3](https://app.rs.school/certificate/b21fnep7)
-
-[![Vonubat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vonubat&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
