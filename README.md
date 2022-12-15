@@ -12,15 +12,15 @@
 
 - HTML, CSS, SASS, BEM,
 - JavaScript, TypeScript,
-- React, Redux Toolkit, RTK Query
+- React (Class-Components & Hooks), Redux Toolkit, RTK Query
 - Node.js (Express, JSON-server, Puppeteer)
-- HTTP, REST API, JWT, Postman, Swagger
+- HTTP, REST API, WebSockets, Axios, JWT, Postman, Swagger
 - Git, Webpack, ESLint, Prettier
 - Jest, React testing library
 - Bootstrap, Material-UI, Tailwind
 - Figma, Photoshop
 - MongoDB
-
+- Internationalization
 
 #### 💾 Projects:
 
