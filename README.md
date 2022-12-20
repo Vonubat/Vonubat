@@ -10,15 +10,15 @@
 
 #### 👨‍💻 Technologies & tools:
 
-- HTML, CSS, SASS, BEM,
-- JavaScript, TypeScript,
+- HTML/CSS (Responsive, Adaptive, Semantics), SASS, BEM, UI/UX, pixel-perfect
+- JavaScript, TypeScript
 - React (Class-Components & Hooks), Redux Toolkit, RTK Query
 - Node.js (Express, JSON-server, Puppeteer)
-- HTTP, REST API, WebSockets, Axios, JWT, Postman, Swagger
+- HTTP, REST, GraphQL, WebSockets, JWT, Axios, Postman, Swagger
 - Git, Webpack, ESLint, Prettier
-- Jest, React testing library
+- JEST, React testing library
 - Bootstrap, Material-UI, Tailwind
-- Figma, Photoshop
+- Figma
 - MongoDB
 - Internationalization
 
