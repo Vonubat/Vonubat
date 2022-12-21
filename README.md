@@ -10,7 +10,7 @@
 
 #### 👨‍💻 Technologies & tools:
 
-- HTML/CSS (Responsive, Adaptive, Semantics), SASS, BEM, UI/UX, pixel-perfect
+- HTML/CSS (Responsive, Adaptive), SASS, BEM, Semantics, UI/UX, pixel-perfect
 - JavaScript, TypeScript
 - React (Class-Components & Hooks), Redux Toolkit, RTK Query
 - Node.js (Express, JSON-server, Puppeteer)
