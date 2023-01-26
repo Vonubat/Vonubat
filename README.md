@@ -8,20 +8,6 @@
 [<img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white">](https://join.skype.com/invite/oIbhH4O0J6H8)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/egor-tabunov/)
 
-#### 👨‍💻 Technologies & tools:
-
-- HTML/CSS (Responsive, Adaptive), SASS, BEM, Semantics, UI/UX, pixel-perfect
-- JavaScript, TypeScript
-- React (Class-Components & Hooks), Redux Toolkit, RTK Query
-- Node.js (Express, JSON-server, Puppeteer)
-- HTTP, REST, GraphQL, WebSockets, JWT, Axios, Postman, Swagger
-- Git, Webpack, ESLint, Prettier
-- JEST, React testing library
-- Bootstrap, Material-UI, Tailwind
-- Figma
-- MongoDB
-- Internationalization
-
 #### 💾 Projects:
 
 - [Project Management System App](https://project-management-system-app.netlify.app/) - Kanban Board to manage your team's workflow (React, TS) - [repo](https://github.com/Vonubat/project-management-app/tree/develop)
