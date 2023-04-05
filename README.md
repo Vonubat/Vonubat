@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40c463&width=435&lines=Hi%2C+I'm+Egor;Front-end+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CC644&width=550&lines=Hi%2C+I'm+Egor;Fullstack+Developer;JavaScript%2FTypescript%2FReact%2FNode.js%2FNestJS)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
@@ -10,17 +10,11 @@
 
 #### 💾 Projects:
 
-- [Project Management System App](https://project-management-system-app.netlify.app/) - Kanban Board to manage your team's workflow (React, TS) - [repo](https://github.com/Vonubat/project-management-app/tree/develop)
+- [Abyss Helper](https://abyss-helper.netlify.app/) - This tool helps keep track of Abyssal runs in Eve Online, so you can focus on DOING runs instead of tracking them - [repo](https://github.com/Vonubat/abyss-helper)
+- [Project Management System App](https://project-management-system-app.netlify.app/) - Kanban Board to manage your team's workflow - [repo](https://github.com/Vonubat/project-management-app/tree/develop)
 - [Rick Morty Legacy](https://react-ram-app.netlify.app/) - React SPA based on the television show Rick and Morty for access to about hundreds of characters, images, locations and episodes - [repo](https://github.com/Vonubat/rick-morty-legacy)
 - [RS Lang](https://vonubat.github.io/rs-lang/) - App for Learning English - [repo](https://github.com/Vonubat/rs-lang)
 - [Async-Race](https://vonubat.github.io/async-race/) - Race Game SPA - [repo](https://github.com/Vonubat/async-race)
-- [Kulikov project](https://vonubat.github.io/kulikov-project/) - The first freelance job. Landing Page with responsive layout - [repo](https://github.com/Vonubat/kulikov-project)
-- [Online Store](https://vonubat.github.io/online-store/) - E-commerce SPA with e2e testing - [repo](https://github.com/Vonubat/online-store)
-- [News Portal](https://vonubat.github.io/news-portal) - News Aggregator SPA - [repo](https://github.com/Vonubat/news-portal)
-- [Shelter](https://vonubat.github.io/shelter) - Landing Page with responsive layout - [repo](https://github.com/Vonubat/shelter)
-- [Virtual Keyboard](https://vonubat.github.io/virtual-keyboard/) - Virtual Keyboard SPA - [repo](https://github.com/Vonubat/virtual-keyboard)
-- [The Eisenhower Matrix](https://vonubat.github.io/eisenhower-matrix/) - The Eisenhower Matrix (to do list app) - [repo](https://github.com/Vonubat/eisenhower-matrix)
-- [Mem Slider](https://vonubat.github.io/css-mem-slider) - Pure CSS Mem Slider - [repo](https://github.com/Vonubat/css-mem-slider)
 
 #### 📊 My certificates:
 
