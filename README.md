@@ -10,10 +10,8 @@
 
 #### 💾 Projects:
 
-- [Abyss Helper](https://abyss-helper.netlify.app/) - This tool helps keep track of Abyssal runs in Eve Online, so you can focus on DOING runs instead of tracking them - [repo](https://github.com/Vonubat/abyss-helper)
 - [Project Management System App](https://project-management-system-app.netlify.app/) - Kanban Board to manage your team's workflow - [repo](https://github.com/Vonubat/project-management-app/tree/develop)
 - [Rick Morty Legacy](https://react-ram-app.netlify.app/) - React SPA based on the television show Rick and Morty for access to about hundreds of characters, images, locations and episodes - [repo](https://github.com/Vonubat/rick-morty-legacy)
-- [RS Lang](https://vonubat.github.io/rs-lang/) - App for Learning English - [repo](https://github.com/Vonubat/rs-lang)
 - [Async-Race](https://vonubat.github.io/async-race/) - Race Game SPA - [repo](https://github.com/Vonubat/async-race)
 
 #### 📊 My certificates:
