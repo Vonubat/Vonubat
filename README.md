@@ -16,7 +16,7 @@
 
 #### 📊 My certificates:
 
- - [RS School Node.js 2024Q1](https://app.rs.school/certificate/0ibm12u2)
+ - [RS School Node.js 2024Q1](https://app.rs.school/certificate/10wc5rqb)
  - [RS School AWS Cloud Developer 2023Q4](https://app.rs.school/certificate/y2cojsqz)
  - [RS School React 2022Q3](https://app.rs.school/certificate/b21fnep7)
  - [RS School JavaScript/Front-end 2022Q1](https://app.rs.school/certificate/7zftoev0)
