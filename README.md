@@ -8,12 +8,6 @@
 [<img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white">](https://join.skype.com/invite/oIbhH4O0J6H8)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/egor-tabunov/)
 
-#### 💾 Projects:
-
-- [Project Management System App](https://project-management-system-app.netlify.app/) - Kanban Board to manage your team's workflow - [repo](https://github.com/Vonubat/project-management-app/tree/develop)
-- [Rick Morty Legacy](https://react-ram-app.netlify.app/) - React SPA based on the television show Rick and Morty for access to about hundreds of characters, images, locations and episodes - [repo](https://github.com/Vonubat/rick-morty-legacy)
-- [Async-Race](https://vonubat.github.io/async-race/) - Race Game SPA - [repo](https://github.com/Vonubat/async-race)
-
 #### 📊 My certificates:
 
  - [RS School Node.js 2024Q1](https://app.rs.school/certificate/10wc5rqb)
