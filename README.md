@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CC644&width=550&lines=I%20don't%20like%20using%20any%20tools%20or%20programs%20I%20didn't%20write%20myself%20or%20that%20I%20don't%20have%20some%20control%20over.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CC644&width=550&lines=A%20great%20programmer%20thinks%20about%20the%20program%20on%20a%20constant%20basis%2C%20whether%20driving%20or%20eating.%20That%20method%20takes%20an%20incredible%20amount%20of%20mental%20energy.)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
