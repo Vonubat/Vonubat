@@ -57,6 +57,29 @@ puppeteer.use(puppeteerStealthPlugin);
   console.log('\n--- DEBUG INFO ---');
   console.log(`Fetched Quote: "${quote}"`);
 
+  const maxCharsPerLine = 55;
+  const words = quote.split(' ');
+  const linesArr = [];
+  let currentLine = '';
+
+  words.forEach((word) => {
+    if ((currentLine + word).length > maxCharsPerLine) {
+      linesArr.push(currentLine.trim());
+      currentLine = word + ' ';
+    } else {
+      currentLine += word + ' ';
+    }
+  });
+  if (currentLine) {
+    linesArr.push(currentLine.trim());
+  }
+
+  const formattedQuote = linesArr.join(';');
+  const maxLineChars = Math.max(...linesArr.map((l) => l.length));
+
+  const dynamicWidth = Math.ceil(Math.max(400, maxLineChars * 12 + 40));
+  const dynamicHeight = Math.max(50, linesArr.length * 30 + 20);
+
   let readme = fs.readFileSync('README.md', 'utf-8');
 
   const regex = /(https:\/\/readme-typing-svg\.demolab\.com[^\s)"'>]+)/g;
@@ -73,10 +96,10 @@ puppeteer.use(puppeteerStealthPlugin);
     try {
       const url = new URL(match.replace(/&amp;/g, '&'));
 
-      url.searchParams.set('lines', quote);
-
-      const dynamicWidth = Math.ceil(Math.max(500, quote.length * 11.5 + 50));
+      url.searchParams.set('lines', formattedQuote);
+      url.searchParams.set('multiline', 'true');
       url.searchParams.set('width', dynamicWidth);
+      url.searchParams.set('height', dynamicHeight);
 
       const newUrl = url.toString();
       console.log(`New URL: ${newUrl}`);
