@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=1856&lines=Beauty+is+more+important+in+computing+than+anywhere+else+in+technology+because+software+is+so+complicated.+Beauty+is+the+ultimate+defense+against+complexity.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=In+theory%2C+there+is+no+difference+between+theory+and%3Bpractice.+But%2C+in+practice%2C+there+is.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
