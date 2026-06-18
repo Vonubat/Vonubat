@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CC644&width=690&lines=Programming%20is%20the%20ultimate%20field%20for%20someone%20who%20likes%20to%20tinker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=1856&lines=Beauty+is+more+important+in+computing+than+anywhere+else+in+technology+because+software+is+so+complicated.+Beauty+is+the+ultimate+defense+against+complexity.)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
