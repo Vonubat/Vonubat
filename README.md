@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=In+theory%2C+there+is+no+difference+between+theory+and%3Bpractice.+But%2C+in+practice%2C+there+is.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Mental+qualities+peculiar+to+human-like+motivational%3Bstructures%2C+such+as+love+and+hate%2C+will+not+be+required%3Bfor+intelligent+behavior%2C+but+we+could+probably+program%3Bcomputers+to+exhibit+them+if+we+wanted+to.&multiline=true&height=140)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
