@@ -22,54 +22,58 @@ jobs:
         with:
           token: ${{ steps.app-token.outputs.token }}
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
       - name: Fetch Quote and Update README
-        shell: python
         run: |
-          import urllib.request
-          import urllib.error
-          import urllib.parse
-          import json
-          import re
+          cat << 'EOF' > update-quote.js
+          const puppeteer = require('puppeteer');
+          const fs = require('fs');
 
-          try:
-              url = "https://programming-quotesapi.vercel.app/api/random"
-              req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'})
-              with urllib.request.urlopen(req) as response:
-                  raw_data = response.read().decode('utf-8')
-                  print("--- DEBUG SUCCESS HTTP INFO ---")
-                  print(f"Status: {response.getcode()}")
-                  print(f"Raw Response: {raw_data}")
-                  print("-------------------------------")
+          (async () => {
+              let quote = "Code is like humor. When you have to explain it, it’s bad.";
+              try {
+                  const browser = await puppeteer.launch({ 
+                      args: ['--no-sandbox', '--disable-setuid-sandbox'] 
+                  });
+                  const page = await browser.newPage();
                   
-                  data = json.loads(raw_data)
-                  quote = data.get('quote', 'Talk is cheap. Show me the code.')
-          except urllib.error.HTTPError as e:
-              print("--- DEBUG HTTP ERROR ---")
-              print(f"Code: {e.code}")
-              print(f"Reason: {e.reason}")
-              print(f"Body: {e.read().decode('utf-8', errors='ignore')}")
-              print("------------------------")
-              quote = "Code is like humor. When you have to explain it, it’s bad."
-          except Exception as e:
-              print("--- DEBUG GENERAL ERROR ---")
-              print(f"Type: {type(e).__name__}")
-              print(f"Message: {str(e)}")
-              print("---------------------------")
-              quote = "Code is like humor. When you have to explain it, it’s bad."
+                  await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+                  await page.goto('https://programming-quotesapi.vercel.app/api/random', { waitUntil: 'networkidle0' });
+                  
+                  const content = await page.evaluate(() => document.body.innerText);
+                  
+                  try {
+                      const data = JSON.parse(content);
+                      if (data && data.quote) {
+                          quote = data.quote;
+                      }
+                  } catch (e) {
+                      console.error("JSON parse failed:", content);
+                  }
+                  
+                  await browser.close();
+              } catch (err) {
+                  console.error("Puppeteer error:", err);
+              }
 
-          encoded_quote = urllib.parse.quote(quote)
+              const encodedQuote = encodeURIComponent(quote);
+              const readme = fs.readFileSync('README.md', 'utf-8');
+              
+              const updatedReadme = readme.replace(
+                  /(readme-typing-svg\.demolab\.com.*?[?&]lines=)[^&\)\]"]+/g,
+                  `$1${encodedQuote}`
+              );
 
-          with open('README.md', 'r', encoding='utf-8') as file:
-              readme = file.read()
+              fs.writeFileSync('README.md', updatedReadme);
+          })();
+          EOF
 
-          updated_readme = re.sub(
-              r'(readme-typing-svg\.demolab\.com.*?[?&]lines=)[^&\)\]"]+',
-              r'\g<1>' + encoded_quote,
-              readme
-          )
-
-          with open('README.md', 'w', encoding='utf-8') as file:
-              file.write(updated_readme)
+          node update-quote.js
+          rm update-quote.js
 
       - name: Commit and Push changes
         run: |
