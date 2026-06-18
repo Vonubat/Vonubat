@@ -54,12 +54,27 @@ puppeteer.use(puppeteerStealthPlugin);
     if (success) break;
   }
 
-  const dynamicWidth = Math.max(550, quote.length * 10 + 30);
-  const encodedQuote = encodeURIComponent(quote);
   let readme = fs.readFileSync('README.md', 'utf-8');
 
-  readme = readme.replace(/(readme-typing-svg\.demolab\.com.*?[?&]lines=)[^&\)\]"]+/g, `$1${encodedQuote}`);
-  readme = readme.replace(/(readme-typing-svg\.demolab\.com.*?[?&]width=)\d+/g, `$1${dynamicWidth}`);
+  // Find the SVG URL and reconstruct it cleanly using URLSearchParams
+  readme = readme.replace(/https:\/\/readme-typing-svg\.demolab\.com\/\?[^\s)"'>]+/g, (match) => {
+    try {
+      // Parse the existing URL (cleaning up HTML entities if present)
+      const url = new URL(match.replace(/&amp;/g, '&'));
+
+      // Set the new quote
+      url.searchParams.set('lines', quote);
+
+      // Calculate a safe width (~11.5px per character + 50px buffer)
+      const dynamicWidth = Math.ceil(Math.max(500, quote.length * 11.5 + 50));
+      url.searchParams.set('width', dynamicWidth);
+
+      return url.toString();
+    } catch (e) {
+      console.error('URL parsing failed:', e);
+      return match;
+    }
+  });
 
   fs.writeFileSync('README.md', readme);
 })();
