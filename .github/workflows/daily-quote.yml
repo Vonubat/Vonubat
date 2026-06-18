@@ -1,0 +1,67 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub App Token
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+
+      - name: Fetch Quote and Update README
+        shell: python
+        run: |
+          import urllib.request
+          import urllib.parse
+          import json
+          import re
+
+          try:
+              url = "https://dummyjson.com/quotes/random"
+              req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+              with urllib.request.urlopen(req) as response:
+                  data = json.loads(response.read().decode())
+                  quote = data['quote']
+                  
+                  if len(quote) > 65:
+                      quote = quote[:62] + "..."
+          except Exception:
+              quote = "Keep pushing forward."
+
+          encoded_quote = urllib.parse.quote(quote)
+
+          with open('README.md', 'r', encoding='utf-8') as file:
+              readme = file.read()
+
+          updated_readme = re.sub(
+              r'(readme-typing-svg\.demolab\.com.*?[?&]lines=)[^&\)\]"]+',
+              r'\g<1>' + encoded_quote,
+              readme
+          )
+
+          with open('README.md', 'w', encoding='utf-8') as file:
+              file.write(updated_readme)
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "vonubat-special-repo-ci-cd[bot]"
+          git config --global user.email "4084666+vonubat-special-repo-ci-cd[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update daily quote"
+          git push
