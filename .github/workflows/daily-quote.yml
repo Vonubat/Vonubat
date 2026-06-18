@@ -27,6 +27,9 @@ jobs:
         with:
           node-version: "24"
 
+      - name: Install Puppeteer
+        run: npm install puppeteer
+
       - name: Fetch Quote and Update README
         run: |
           cat << 'EOF' > update-quote.js
