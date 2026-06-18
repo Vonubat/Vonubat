@@ -26,17 +26,35 @@ jobs:
         shell: python
         run: |
           import urllib.request
+          import urllib.error
           import urllib.parse
           import json
           import re
 
           try:
               url = "https://programming-quotesapi.vercel.app/api/random"
-              req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+              req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'})
               with urllib.request.urlopen(req) as response:
-                  data = json.loads(response.read().decode())
+                  raw_data = response.read().decode('utf-8')
+                  print("--- DEBUG SUCCESS HTTP INFO ---")
+                  print(f"Status: {response.getcode()}")
+                  print(f"Raw Response: {raw_data}")
+                  print("-------------------------------")
+                  
+                  data = json.loads(raw_data)
                   quote = data.get('quote', 'Talk is cheap. Show me the code.')
-          except Exception:
+          except urllib.error.HTTPError as e:
+              print("--- DEBUG HTTP ERROR ---")
+              print(f"Code: {e.code}")
+              print(f"Reason: {e.reason}")
+              print(f"Body: {e.read().decode('utf-8', errors='ignore')}")
+              print("------------------------")
+              quote = "Code is like humor. When you have to explain it, it’s bad."
+          except Exception as e:
+              print("--- DEBUG GENERAL ERROR ---")
+              print(f"Type: {type(e).__name__}")
+              print(f"Message: {str(e)}")
+              print("---------------------------")
               quote = "Code is like humor. When you have to explain it, it’s bad."
 
           encoded_quote = urllib.parse.quote(quote)
