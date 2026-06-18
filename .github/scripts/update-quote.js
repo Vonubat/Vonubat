@@ -1,14 +1,10 @@
 'use strict';
 
 const puppeteer = require('puppeteer-extra');
-let StealthPlugin = require('puppeteer-extra-plugin-stealth');
-
-if (StealthPlugin.default) {
-  StealthPlugin = StealthPlugin.default;
-}
-puppeteer.use(StealthPlugin());
-
+const puppeteerStealthPlugin = require('puppeteer-extra-plugin-stealth')();
 const fs = require('fs');
+
+puppeteer.use(puppeteerStealthPlugin);
 
 (async () => {
   let quote = 'Code is like humor. When you have to explain it, it’s bad.';
