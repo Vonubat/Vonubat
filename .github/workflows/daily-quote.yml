@@ -27,14 +27,18 @@ jobs:
         with:
           node-version: "24"
 
-      - name: Install Puppeteer
-        run: npm install puppeteer
+      - name: Install Puppeteer and Stealth Plugin
+        run: npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
 
       - name: Fetch Quote and Update README
         run: |
           cat << 'EOF' > update-quote.js
-          const puppeteer = require('puppeteer');
+          const puppeteer = require('puppeteer-extra');
+          const puppeteerStealthPlugin = require('puppeteer-extra-plugin-stealth');
           const fs = require('fs');
+
+
+          puppeteer.use(puppeteerStealthPlugin());
 
           (async () => {
               let quote = "Code is like humor. When you have to explain it, it’s bad.";
@@ -46,11 +50,15 @@ jobs:
                   try {
                       console.log(`Attempt ${attempt} of ${maxAttempts}...`);
                       browser = await puppeteer.launch({ 
-                          args: ['--no-sandbox', '--disable-setuid-sandbox'] 
+                          headless: true,
+                          args: [
+                              '--no-sandbox', 
+                              '--disable-setuid-sandbox',
+                              '--disable-blink-features=AutomationControlled'
+                          ] 
                       });
                       const page = await browser.newPage();
                       
-                      await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
                       await page.goto('https://programming-quotesapi.vercel.app/api/random', { waitUntil: 'domcontentloaded' });
                       
                       await page.waitForFunction(() => {
@@ -60,7 +68,7 @@ jobs:
                           } catch (e) {
                               return false;
                           }
-                      }, { timeout: 10000 });
+                      }, { timeout: 15000 });
                       
                       const content = await page.evaluate(() => document.body.innerText);
                       const data = JSON.parse(content);
