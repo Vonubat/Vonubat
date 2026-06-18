@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CC644&width=610&lines=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CC644&width=690&lines=Programming%20is%20the%20ultimate%20field%20for%20someone%20who%20likes%20to%20tinker.)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
