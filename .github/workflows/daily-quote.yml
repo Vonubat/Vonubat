@@ -28,7 +28,7 @@ jobs:
           node-version: "24"
 
       - name: Install Puppeteer and Stealth Plugin
-        run: npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
+        run: npm install puppeteer@21.11.0 puppeteer-extra@3.3.6 puppeteer-extra-plugin-stealth@2.11.2
 
       - name: Fetch Quote and Update README
         run: node .github/scripts/update-quote.js
