@@ -54,22 +54,33 @@ puppeteer.use(puppeteerStealthPlugin);
     if (success) break;
   }
 
+  console.log('\n--- DEBUG INFO ---');
+  console.log(`Fetched Quote: "${quote}"`);
+
   let readme = fs.readFileSync('README.md', 'utf-8');
 
-  // Find the SVG URL and reconstruct it cleanly using URLSearchParams
-  readme = readme.replace(/https:\/\/readme-typing-svg\.demolab\.com\/\?[^\s)"'>]+/g, (match) => {
+  const regex = /(https:\/\/readme-typing-svg\.demolab\.com[^\s)"'>]+)/g;
+  const matches = readme.match(regex);
+
+  if (matches) {
+    console.log(`Found ${matches.length} SVG URL(s) in README.md.`);
+    matches.forEach((m, i) => console.log(`Old URL ${i + 1}: ${m}`));
+  } else {
+    console.log('WARNING: Could not find the SVG URL in README.md!');
+  }
+
+  readme = readme.replace(regex, (match) => {
     try {
-      // Parse the existing URL (cleaning up HTML entities if present)
       const url = new URL(match.replace(/&amp;/g, '&'));
 
-      // Set the new quote
       url.searchParams.set('lines', quote);
 
-      // Calculate a safe width (~11.5px per character + 50px buffer)
       const dynamicWidth = Math.ceil(Math.max(500, quote.length * 11.5 + 50));
       url.searchParams.set('width', dynamicWidth);
 
-      return url.toString();
+      const newUrl = url.toString();
+      console.log(`New URL: ${newUrl}`);
+      return newUrl;
     } catch (e) {
       console.error('URL parsing failed:', e);
       return match;
@@ -77,4 +88,5 @@ puppeteer.use(puppeteerStealthPlugin);
   });
 
   fs.writeFileSync('README.md', readme);
+  console.log('------------------\n');
 })();
