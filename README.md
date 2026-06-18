@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CC644&width=550&lines=Hi%2C+I'm+Egor;Software+Engineer+|+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CC644&width=550&lines=Only%20a%20man%20who%20knows%20what%20it%20is%20like%20to%20be%20defeated%20can%20reach%20...)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
