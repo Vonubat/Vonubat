@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=The+tools+we+use+have+a+profound+and+devious+influence%3Bon+our+thinking+habits%2C+and+therefore+on+our+thinking%3Babilities.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Like+a+financial+debt%2C+the+technical+debt+incurs%3Binterest+payments%2C+which+come+in+the+form+of+the+extra%3Beffort+that+we+have+to+do+in+future+development+because%3Bof+the+quick+and+dirty+design+choice.&multiline=true&height=140)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
