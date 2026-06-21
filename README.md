@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Some+people%2C+when+confronted+with+a+problem%2C+think+%E2%80%98I%3Bknow%2C+I%E2%80%99ll+use+regular+expressions.%E2%80%99+Now+they+have+two%3Bproblems.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=The+most+important+thing+is+to+be+able+to+think+what%3Byou+want%2C+not+to+say+what+you+want.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
