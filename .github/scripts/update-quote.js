@@ -24,12 +24,12 @@ puppeteer.use(puppeteerStealthPlugin);
 
       const page = await browser.newPage();
 
-      await page.goto('https://programming-quotesapi.vercel.app/api/random', { waitUntil: 'domcontentloaded' });
+      await page.goto('https://programming-quotes-api-pi.vercel.app/quotes/random', { waitUntil: 'domcontentloaded' });
       await page.waitForFunction(
         () => {
           try {
             const data = JSON.parse(document.body.innerText);
-            return data && data.quote;
+            return data && data.en;
           } catch (e) {
             return false;
           }
@@ -40,8 +40,8 @@ puppeteer.use(puppeteerStealthPlugin);
       const content = await page.evaluate(() => document.body.innerText);
       const data = JSON.parse(content);
 
-      if (data && data.quote) {
-        quote = data.quote;
+      if (data && data.en) {
+        quote = data.en;
         success = true;
         console.log('Success!');
       }
