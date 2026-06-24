@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=I+can+build+a+reliable+system+with+thousands+of+bugs%2C%3Bif+you+let+me+choose+my+bugs+carefully.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=652&lines=There+are+many+terrible+mistakes+to+make+in+program%3Bdesign%2C+so+go+ahead+and+make+them+so+that+you%3Bunderstand+them+better.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
