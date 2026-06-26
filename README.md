@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=The+magic+of+a+computer+lies+in+its+ability+to+become%3Balmost+anything+you+can+imagine%2C+as+long+as+you+can%3Bexplain+exactly+what+that+is.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=A+computer+would+deserve+to+be+called+intelligent+if+it%3Bcould+deceive+a+human+into+believing+that+it+was+human.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
