@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=652&lines=You+should+name+a+variable+using+the+same+care+with%3Bwhich+you+name+a+first-born+child.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=580&lines=Imagination+is+more+important+than+knowledge.&multiline=true&height=50)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
