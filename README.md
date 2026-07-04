@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=A+program+is+like+a+poem%3A+you+cannot+write+a+poem%3Bwithout+writing+it.+Yet+people+talk+about+programming%3Bas+if+it+were+a+production+process+and+measure%3B%E2%80%9Eprogrammer+productivity%E2%80%9C+in+terms+of+%E2%80%9Enumber+of+lines%3Bof+code+produced%E2%80%9C.+In+so+doing+they+book+that+number+on%3Bthe+wrong+side+of+the+ledger%3A+We+should+always+refer+to%3B%E2%80%9Ethe+number+of+lines+of+code+spent%E2%80%9C.&multiline=true&height=230)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=An+evolving+system+increases+its+complexity+unless+work%3Bis+done+to+reduce+it.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
