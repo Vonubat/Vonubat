@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=An+evolving+system+increases+its+complexity+unless+work%3Bis+done+to+reduce+it.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=There%27s+only+one+trick+in+software%2C+and+that+is+using+a%3Bpiece+of+software+that%27s+already+been+written.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
