@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Much+of+the+essence+of+building+a+program+is+in+fact%3Bthe+debugging+of+the+specification.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=There%27s+nothing+more+permanent+than+a+temporary+hack.&multiline=true&height=50)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
