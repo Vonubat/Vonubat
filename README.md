@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=There%27s+nothing+more+permanent+than+a+temporary+hack.&multiline=true&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=I%E2%80%99ve+never+been+a+lover+of+existing+code.+Code+by%3Bitself+almost+rots+and+it%E2%80%99s+gotta+be+rewritten.+Even%3Bwhen+nothing+has+changed%2C+for+some+reason+it+rots.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
