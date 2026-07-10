@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=640&lines=Sometimes+there+is+a+silver+bullet+for+boosting%3Bsoftware+engineering+productivity.+But+you+need+to%3Bshoot+the+right+person.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=The+amateur+software+engineer+is+always+in+search+of%3Bmagic%2C+some+sensational+method+or+tool+whose%3Bapplication+promises+to+render+software+development%3Btrivial.+It+is+the+mark+of+the+professional+software%3Bengineer+to+know+that+no+such+panacea+exist.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
