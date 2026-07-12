@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=A+great+programmer+thinks+about+the+program+on+a%3Bconstant+basis%2C+whether+driving+or+eating.+That+method%3Btakes+an+incredible+amount+of+mental+energy.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=616&lines=When+we+don%E2%80%99t+understand+a+process%2C+we+fall+into%3Bmagical+thinking+about+results.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
