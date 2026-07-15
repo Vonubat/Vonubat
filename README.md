@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=What+a+computer+is+to+me+is+it%27s+the+most+remarkable%3Btool+that+we+have+ever+come+up+with.+It%27s+the%3Bequivalent+of+a+bicycle+for+our+minds.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=In+handling+resources%2C+strive+to+avoid+disaster+rather%3Bthan+to+attain+an+optimum.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
