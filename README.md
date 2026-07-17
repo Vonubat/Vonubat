@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=A+man+provided+with+paper%2C+pencil%2C+and+rubber%2C+and%3Bsubject+to+strict+discipline%2C+is+in+effect+a+universal%3Bmachine.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=In+fact%2C+in+the+1980s+I+often+came+across+newly%3Bgraduated+computer+science+majors+who+had+never+seen+a%3Breal+program+in+their+lives.+They+had+only+seen+toy%3Bexercises%2C+school+exercises%2C+because+every+real+program%3Bwas+a+trade+secret.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
