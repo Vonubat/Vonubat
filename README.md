@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=In+fact%2C+in+the+1980s+I+often+came+across+newly%3Bgraduated+computer+science+majors+who+had+never+seen+a%3Breal+program+in+their+lives.+They+had+only+seen+toy%3Bexercises%2C+school+exercises%2C+because+every+real+program%3Bwas+a+trade+secret.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=The+best+programmers+are+up+to+28+times+better+than+the%3Bworst+programmers%2C+according+to+%E2%80%9Cindividual%3Bdifferences%E2%80%9D+research.+Given+that+their+pay+is+never%3Bcommensurate%2C+they+are+the+biggest+bargains+in+the%3Bsoftware+field.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
