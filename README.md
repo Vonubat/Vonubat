@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=The+best+programmers+are+up+to+28+times+better+than+the%3Bworst+programmers%2C+according+to+%E2%80%9Cindividual%3Bdifferences%E2%80%9D+research.+Given+that+their+pay+is+never%3Bcommensurate%2C+they+are+the+biggest+bargains+in+the%3Bsoftware+field.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=652&lines=Really%2C+I%27m+not+out+to+destroy+Microsoft.+That+will%3Bjust+be+a+completely+unintentional+side+effect.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
