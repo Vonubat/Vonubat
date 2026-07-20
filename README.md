@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=652&lines=Really%2C+I%27m+not+out+to+destroy+Microsoft.+That+will%3Bjust+be+a+completely+unintentional+side+effect.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=604&lines=The+button+is+working%2C+only%2C+it+cannot+be+seen.&multiline=true&height=50)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
