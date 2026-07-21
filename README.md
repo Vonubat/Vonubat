@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=604&lines=The+button+is+working%2C+only%2C+it+cannot+be+seen.&multiline=true&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=My+main+conclusion+after+spending+ten+years+of+my+life%3Bworking+on+the+TEX+project+is+that+software+is+hard.%3BIt%E2%80%99s+harder+than+anything+else+I%E2%80%99ve+ever+had+to+do.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
