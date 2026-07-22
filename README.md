@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=My+main+conclusion+after+spending+ten+years+of+my+life%3Bworking+on+the+TEX+project+is+that+software+is+hard.%3BIt%E2%80%99s+harder+than+anything+else+I%E2%80%99ve+ever+had+to+do.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=C%2B%2B+certainly+has+its+good+points.+But+by+and+large+I%3Bthink+it%27s+a+bad+language.+It+does+a+lot+of+things+half%3Bwell+and+it%E2%80%99s+just+a+garbage+heap+of+ideas+that+are%3Bmutually+exclusive.+It%E2%80%99s+way+too+big%2C+way+too+complex.%3BAnd+it%E2%80%99s+obviously+built+by+a+committee.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
