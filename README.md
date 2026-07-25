@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Sometimes%2C+the+elegant+implementation+is+a+function.%3BNot+a+method.+Not+a+class.+Not+a+framework.+Just+a%3Bfunction.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Simplicity+does+not+precede+complexity%2C+but+follows+it.&multiline=true&height=50)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
