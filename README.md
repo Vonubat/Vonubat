@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=It+was+on+one+of+my+journeys+between+the+EDSAC+room+and%3Bthe+punching+equipment+the+realization+came+over+me%3Bwith+full+force+that+a+good+part+of+the+remainder+of+my%3Blife+was+going+to+be+spent+in+finding+errors+in+my+own%3Bprograms.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=C+makes+it+easy+to+shoot+yourself+in+the+foot%3B+C%2B%2B%3Bmakes+it+harder%2C+but+when+you+do+it+blows+your+whole%3Bleg+off.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
