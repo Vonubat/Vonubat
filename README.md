@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=400&lines=Making+things+easy+is+hard.&multiline=true&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=I+have+met+bright+students+in+computer+science+who+have%3Bnever+seen+the+source+code+of+a+large+program.+They+may%3Bbe+good+at+writing+small+programs%2C+but+they+can%27t+begin%3Bto+learn+the+different+skills+of+writing+large+ones+if%3Bthey+can%27t+see+how+others+have+done+it.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
