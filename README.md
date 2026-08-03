@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=640&lines=Mathematicians+stand+on+each+others%27+shoulders+and%3Bcomputer+scientists+stand+on+each+others%27+toes.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=If+you+think+it%27s+simple%2C+then+you+have+misunderstood%3Bthe+problem.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
