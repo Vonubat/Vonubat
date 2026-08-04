@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=If+you+think+it%27s+simple%2C+then+you+have+misunderstood%3Bthe+problem.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Everything+should+be+made+as+simple+as+possible.+But+to%3Bdo+that+you+have+to+master+complexity.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
