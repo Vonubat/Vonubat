@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=We+need+to+be+super+careful+with+AI.+Potentially+more%3Bdangerous+than+nukes.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=When+you+feel+the+need+to+write+a+comment%2C+first+try+to%3Brefactor+the+code+so+that+any+comment+becomes%3Bsuperfluous.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
