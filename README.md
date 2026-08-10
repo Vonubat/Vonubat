@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Humanity+is+acquiring+all+the+right+technology+for+all%3Bthe+wrong+reasons.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Always+code+as+if+the+guy+who+ends+up+maintaining+your%3Bcode+will+be+a+violent+psychopath+who+knows+where+you%3Blive.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
