@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=A+large+part+of+mathematics+which+becomes+useful%3Bdeveloped+with+absolutely+no+desire+to+be+useful%2C+and%3Bin+a+situation+where+nobody+could+possibly+know+in+what%3Barea+it+would+become+useful.&multiline=true&height=140)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Every+now+and+then+I+feel+a+temptation+to+design+a%3Bprogramming+language+but+then+I+just+lie+down+until+it%3Bgoes+away.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
