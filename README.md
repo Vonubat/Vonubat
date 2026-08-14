@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=The+Domain+Name+Server+%28DNS%29+is+the+Achilles+heel+of%3Bthe+Web.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=To+be+a+hacker+-+when+I+use+the+term+-+is+somebody+who%3Bis+creative+and+does+wonderful+things.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
