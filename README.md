@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=To+be+a+hacker+-+when+I+use+the+term+-+is+somebody+who%3Bis+creative+and+does+wonderful+things.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=The+management+question%2C+therefore%2C+is+not+whether+to%3Bbuild+a+pilot+system+and+throw+it+away.+You+will+do%3Bthat.+The+only+question+is+whether+to+plan+in+advance%3Bto+build+a+throwaway%2C+or+to+promise+to+deliver+the%3Bthrowaway+to+customers.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
