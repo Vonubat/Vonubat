@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=The+management+question%2C+therefore%2C+is+not+whether+to%3Bbuild+a+pilot+system+and+throw+it+away.+You+will+do%3Bthat.+The+only+question+is+whether+to+plan+in+advance%3Bto+build+a+throwaway%2C+or+to+promise+to+deliver+the%3Bthrowaway+to+customers.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Programming+is+programming.+If+you+get+good+at%3Bprogramming%2C+it+doesn%27t+matter+which+language+you%3Blearned+it+in%2C+because+you%27ll+be+able+to+do+programming%3Bin+any+language.&multiline=true&height=140)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
