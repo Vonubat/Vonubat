@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Programming+is+programming.+If+you+get+good+at%3Bprogramming%2C+it+doesn%27t+matter+which+language+you%3Blearned+it+in%2C+because+you%27ll+be+able+to+do+programming%3Bin+any+language.&multiline=true&height=140)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=I+always+spend+a+day+a+week+learning+new+stuff.+That%3Bmeans+I+spend+20%25+more+of+my+time+than+my+colleagues%3Blearning+new+stuff.+Now+20%25+at+compound+interest+means%3Bthat+after+four+and+a+half+years+I+will+know+twice+as%3Bmuch+as+them.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
