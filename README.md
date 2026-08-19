@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=The+situation+is+so+much+better+for+programmers+today+-%3Ba+cheap+used+PC%2C+a+linux+CD%2C+and+an+internet+account%2C%3Band+you+have+all+the+tools+necessary+to+work+your+way%3Bto+any+level+of+programming+skill+you+want+to+shoot%3Bfor.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=When+you+find+you+have+to+add+a+feature+to+a+program%2C%3Band+the+program%27s+code+is+not+structured+in+a%3Bconvenient+way+to+add+the+feature%2C+first+refactor+the%3Bprogram+to+make+it+easy+to+add+the+feature%2C+then+add%3Bthe+feature.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
