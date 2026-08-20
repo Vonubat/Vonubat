@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=When+you+find+you+have+to+add+a+feature+to+a+program%2C%3Band+the+program%27s+code+is+not+structured+in+a%3Bconvenient+way+to+add+the+feature%2C+first+refactor+the%3Bprogram+to+make+it+easy+to+add+the+feature%2C+then+add%3Bthe+feature.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Good+judgement+comes+from+experience.+Experience+comes%3Bfrom+bad+judgement.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
