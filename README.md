@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Good+judgement+comes+from+experience.+Experience+comes%3Bfrom+bad+judgement.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=508&lines=Any+sufficiently+advanced+technology+is%3Bindistinguishable+from+magic.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
