@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Software+is+usually+expected+to+be+modified+over+the%3Bcourse+of+its+productive+life.+The+process+of%3Bconverting+one+correct+program+into+a+different+correct%3Bprogram+is+extremely+challenging.&multiline=true&height=140)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=As+with+most+projects%2C+the+last+two+percent+takes+fifty%3Bpercent+of+the+time.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
