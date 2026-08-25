@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=As+with+most+projects%2C+the+last+two+percent+takes+fifty%3Bpercent+of+the+time.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=While+much+attention+has+been+focused+on+high-level%3Bsoftware+architectural+patterns%2C+what+is%2C+in+effect%2C%3Bthe+de-facto+standard+software+architecture+is+seldom%3Bdiscussed%3A+the+Big+Ball+of+Mud.&multiline=true&height=140)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
