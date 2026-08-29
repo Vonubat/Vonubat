@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=It%27s+fun+to+sit+at+a+terminal+and+let+the+code+flow.+It%3Bsounds+strange%2C+but+it+just+comes+out+my+brain%3B+once%3BI%27m+started%2C+I+don%27t+have+to+think+about+it.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=604&lines=Any+technological+or+managerial+scheme+to+force%3Bdocumentation+can+be+subverted+by+unwilling%3Bprogrammers.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
