@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=There+are+few+things+more+frustrating+or+time+wasting%3Bthan+debugging.+Wouldn%27t+it+be+a+hell+of+a+lot+quicker%3Bif+we+just+didn%27t+create+the+bugs+in+the+first+place%3F&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=I+mean%2C+if+10+years+from+now%2C+when+you+are+doing%3Bsomething+quick+and+dirty%2C+you+suddenly+visualize+that%3BI+am+looking+over+your+shoulders+and+say+to+yourself%3B%22Dijkstra+would+not+have+liked+this%22%2C+well%2C+that+would%3Bbe+enough+immortality+for+me.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
