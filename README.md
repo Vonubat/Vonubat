@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Programming+is+similar+to+a+game+of+golf.+The+point+is%3Bnot+getting+the+ball+in+the+hole+but+how+many+strokes%3Bit+takes.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=640&lines=If+we%E2%80%99d+asked+the+customers+what+they+wanted%2C+they%3Bwould+have+said+%E2%80%9Cfaster+horses%E2%80%9D.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
