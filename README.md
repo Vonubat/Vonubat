@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=You+might+not+think+that+programmers+are+artists%2C+but%3Bprogramming+is+an+extremely+creative+profession.+It%27s%3Blogic-based+creativity.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Unix+is+simple.+It+just+takes+a+genius+to+understand%3Bits+simplicity.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
