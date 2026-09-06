@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Unix+is+simple.+It+just+takes+a+genius+to+understand%3Bits+simplicity.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=640&lines=If+builders+built+houses+the+way+programmers+built%3Bprograms%2C+the+first+woodpecker+to+come+along+would%3Bdestroy+civilization.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
