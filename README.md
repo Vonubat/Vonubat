@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=628&lines=Even+in+the+games+of+children+there+are+things+to%3Binterest+the+greatest+mathematician.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=If+people+do+not+believe+that+mathematics+is+simple%2C+it%3Bis+only+because+they+do+not+realize+how+complicated%3Blife+is.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
