@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=If+people+do+not+believe+that+mathematics+is+simple%2C+it%3Bis+only+because+they+do+not+realize+how+complicated%3Blife+is.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Computer+science+research+is+different+from+these+more%3Btraditional+disciplines.+Philosophically+it+differs%3Bfrom+the+physical+sciences+because+it+seeks+not+to%3Bdiscover%2C+explain%2C+or+exploit+the+natural+world%2C+but%3Binstead+to+study+the+properties+of+machines+of+human%3Bcreation.&multiline=true&height=200)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
