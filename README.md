@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Perhaps+the+central+problem+we+face+in+all+of+computer%3Bscience+is+how+we+are+to+get+to+the+situation+where+we%3Bbuild+on+top+of+the+work+of+others+rather+than+redoing%3Bso+much+of+it+in+a+trivially+different+way.&multiline=true&height=140)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=616&lines=I+think+the+best+way+to+supervise+is+by+personal%3Bexample+and+by+frequent+code+reviews.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
