@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=616&lines=I+think+the+best+way+to+supervise+is+by+personal%3Bexample+and+by+frequent+code+reviews.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=The+computing+scientist%E2%80%99s+main+challenge+is+not+to+get%3Bconfused+by+the+complexities+of+his+own+making.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
