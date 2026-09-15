@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=One+of+my+most+productive+days+was+throwing+away+1%2C000%3Blines+of+code.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=An+organisation+that+treats+its+programmers+as+morons%3Bwill+soon+have+programmers+that+are+willing+and+able+to%3Bact+like+morons+only.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
