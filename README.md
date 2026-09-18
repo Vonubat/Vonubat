@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=There+are+two+major+products+that+come+out+of+Berkeley%3A%3BLSD+and+UNIX.+We+don%27t+believe+this+to+be+a%3Bcoincidence.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=568&lines=Premature+abstraction+is+as+bad+as+premature%3Boptimization.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
