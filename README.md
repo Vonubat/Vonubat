@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=568&lines=Premature+abstraction+is+as+bad+as+premature%3Boptimization.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Programming+is+at+least+as+difficult+as+developing+a%3Bmathematical+theory.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
