@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Programming%2C+it+turns+out%2C+is+hard.+The+fundamental%3Brules+are+typically+simple+and+clear.+But+programs%3Bbuilt+on+top+of+these+rules+tend+to+become+complex%3Benough+to+introduce+their+own+rules+and+complexity.%3BYou%E2%80%99re+building+your+own+maze%2C+in+a+way%2C+and+you+might%3Bjust+get+lost+in+it.&multiline=true&height=200)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=568&lines=What+one+programmer+can+do+in+one+month%2C+two%3Bprogrammers+can+do+in+two+months.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
