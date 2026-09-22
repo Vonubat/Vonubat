@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=568&lines=What+one+programmer+can+do+in+one+month%2C+two%3Bprogrammers+can+do+in+two+months.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=484&lines=Typing+is+no+substitute+for+thinking.&multiline=true&height=50)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
