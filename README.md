@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=484&lines=Typing+is+no+substitute+for+thinking.&multiline=true&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Instead+of+the+progression+of+tens%2C+I+have+for+many%3Byears+used+the+simplest+progression+of+all%2C+which%3Bproceeds+by+twos%2C+having+found+that+it+is+useful+for%3Bthe+perfection+of+the+science+of+numbers.&multiline=true&height=140)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
