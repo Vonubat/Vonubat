@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=A+program+is+a+building+of+thought.+It+is+costless+to%3Bbuild%2C+it+is+weightless%2C+and+it+grows+easily+under+our%3Btyping+hands.+But+without+care%2C+a+program%E2%80%99s+size+and%3Bcomplexity+will+grow+out+of+control%2C+confusing+even+the%3Bperson+who+created+it.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=If+you+ever+talk+to+a+great+programmer%2C+you%27ll+find+he%3Bknows+his+tools+like+an+artist+knows+his+paintbrushes.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
