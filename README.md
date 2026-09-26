@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=If+you+ever+talk+to+a+great+programmer%2C+you%27ll+find+he%3Bknows+his+tools+like+an+artist+knows+his+paintbrushes.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=640&lines=AI+is+a+fundamental+risk+to+the+existence+of+human%3Bcivilization.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
