@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=Debugging+time+increases+as+a+square+of+the+program%E2%80%99s%3Bsize.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Our+goals+are+very+simple.+We%27re+going+to+create+the%3Bsoftware+that+puts+a+computer+on+every+desk+and+in%3Bevery+home.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
