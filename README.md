@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Our+goals+are+very+simple.+We%27re+going+to+create+the%3Bsoftware+that+puts+a+computer+on+every+desk+and+in%3Bevery+home.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=The+most+powerful+programming+language+is+Lisp.+If+you%3Bdon%27t+know+Lisp+%28or+its+variant%2C+Scheme%29%2C+you+don%27t%3Bknow+what+it+means+for+a+programming+language+to+be%3Bpowerful+and+elegant.+Once+you+learn+Lisp%2C+you+will%3Bunderstand+what+is+lacking+in+most+other+languages.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
