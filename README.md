@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=I+will%2C+in+fact%2C+claim+that+the+difference+between+a%3Bbad+programmer+and+a+good+one+is+whether+he+considers%3Bhis+code+or+his+data+structures+more+important.+Bad%3Bprogrammers+worry+about+the+code.+Good+programmers%3Bworry+about+data+structures+and+their+relationships.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=628&lines=Good+code+is+short%2C+simple%2C+and+symmetrical+-+the%3Bchallenge+is+figuring+out+how+to+get+there.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
