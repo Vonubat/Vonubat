@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=628&lines=Good+code+is+short%2C+simple%2C+and+symmetrical+-+the%3Bchallenge+is+figuring+out+how+to+get+there.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Be+humble%2C+communicate+clearly%2C+and+respect+others.+It%3Bcosts+nothing+to+be+kind%2C+but+the+impact+is+priceless.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
