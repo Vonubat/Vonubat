@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=652&lines=Really%2C+I%27m+not+out+to+destroy+Microsoft.+That+will%3Bjust+be+a+completely+unintentional+side+effect.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Unix+is+simple.+It+just+takes+a+genius+to+understand%3Bits+simplicity.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
