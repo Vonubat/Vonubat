@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Unix+is+simple.+It+just+takes+a+genius+to+understand%3Bits+simplicity.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=It+is+better+to+have+100+functions+operate+on+one+data%3Bstructure+than+to+have+10+functions+operate+on+10+data%3Bstructures.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
