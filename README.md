@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=616&lines=The+business+of+software+building+isn%27t+really%3Bhigh-tech+at+all.+It%27s+most+of+all+a+business+of%3Btalking+to+each+other+and+writing+things+down.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=The+acts+of+the+mind%2C+wherein+it+exerts+its+power+over%3Bsimple+ideas%2C+are+chiefly+these+three%3A+1.+Combining%3Bseveral+simple+ideas+into+one+compound+one%2C+and+thus%3Ball+complex+ideas+are+made.+2.+The+second+is+bringing%3Btwo+ideas%2C+whether+simple+or+complex%2C+together%2C+and%3Bsetting+them+by+one+another+so+as+to+take+a+view+of%3Bthem+at+once%2C+without+uniting+them+into+one%2C+by+which%3Bit+gets+all+its+ideas+of+relations.+3.+The+third+is%3Bseparating+them+from+all+other+ideas+that+accompany%3Bthem+in+their+real+existence%3A+this+is+called%3Babstraction%2C+and+thus+all+its+general+ideas+are+made.&multiline=true&height=350)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
