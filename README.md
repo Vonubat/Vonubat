@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Never+trust+a+computer+you+can%E2%80%99t+throw+out+a+window.&multiline=true&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Is+studying+computer+science+the+best+way+to+prepare+to%3Bbe+a+programmer%3F+No.+the+best+way+to+prepare+is+to%3Bwrite+programs%2C+and+to+study+great+programs+that+other%3Bpeople+have+written.&multiline=true&height=140)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
