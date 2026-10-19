@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Is+studying+computer+science+the+best+way+to+prepare+to%3Bbe+a+programmer%3F+No.+the+best+way+to+prepare+is+to%3Bwrite+programs%2C+and+to+study+great+programs+that+other%3Bpeople+have+written.&multiline=true&height=140)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=They+were+saying+computers+deal+with+numbers.+This+was%3Babsolutely+nonsense.+Computers+deal+with+arbitrary%3Binformation+of+any+kind.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
