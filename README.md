@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=One+accurate+measurement+is+worth+more+than+a+thousand%3Bexpert+opinions.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=652&lines=For+most+software%2C+efficiency+just+does+not+matter.&multiline=true&height=50)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
