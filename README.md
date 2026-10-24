@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=The+notions+of+correctness+in+mathematics+and+programs%3Bare+different.+A+mathematical+model+must+be+consistent%3B%3Bit+need+not+match+reality+%28be+correct%29%2C+and+it+need+not%3Bbe+complete+%28in+the+formal+sense%29.+A+program+model+must%3Bbe+consistent%3B+it+must+match+reality%3B+and+it+must+be%3Bcomplete+%28in+the+sense+that+it+reacts+gracefully+to+all%3Binputs%29.&multiline=true&height=230)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=640&lines=It+is+not+the+task+of+the+University+to+offer+what%3Bsociety+asks+for%2C+but+to+give+what+society+needs.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
