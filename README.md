@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=640&lines=It+is+not+the+task+of+the+University+to+offer+what%3Bsociety+asks+for%2C+but+to+give+what+society+needs.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=As+long+as+there+were+no+machines%2C+programming+was+no%3Bproblem+at+all%3B+when+we+had+a+few+weak+computers%2C%3Bprogramming+became+a+mild+problem%2C+and+now+we+have%3Bgigantic+computers%2C+programming+has+become+an+equally%3Bgigantic+problem.&multiline=true&height=170)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
