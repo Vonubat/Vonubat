@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Sackman%2C+Erickson%2C+and+Grant+were+measuring+performance%3Bof+a+group+of+experienced+programmers.+Within+just+this%3Bgroup+the+ratios+between+the+best+and+worst%3Bperformances+averaged+about+10%3A1+on+productivity%3Bmeasurements+and+an+amazing+5%3A1+on+program+speed+and%3Bspace+measurements%21&multiline=true&height=200)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=JavaScript+is+the+only+language+that+I%27m+aware+of+that%3Bpeople+feel+they+don%27t+need+to+learn+before+they+start%3Busing+it.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
