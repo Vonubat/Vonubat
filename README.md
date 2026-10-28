@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=JavaScript+is+the+only+language+that+I%27m+aware+of+that%3Bpeople+feel+they+don%27t+need+to+learn+before+they+start%3Busing+it.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=You+can%E2%80%99t+trust+code+that+you+did+not+totally+create%3Byourself.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
