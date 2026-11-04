@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=652&lines=The+best+programmers+are+not+marginally+better+than%3Bmerely+good+ones.+They+are+an+order-of-magnitude%3Bbetter%2C+measured+by+whatever+standard%3A+conceptual%3Bcreativity%2C+speed%2C+ingenuity+of+design%2C+or%3Bproblem-solving+ability.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=A+great+programmer+thinks+about+the+program+on+a%3Bconstant+basis%2C+whether+driving+or+eating.+That+method%3Btakes+an+incredible+amount+of+mental+energy.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
