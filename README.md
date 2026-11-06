@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=What%27s+very+important+from+my+point+of+view+is+that%3Bthere+is+one+web.+Anyone+that+tries+to+chop+it+into+two%3Bwill+find+that+their+piece+looks+very+boring.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Software+engineering+is+the+part+of+computer+science%3Bwhich+is+too+difficult+for+the+computer+scientist.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
