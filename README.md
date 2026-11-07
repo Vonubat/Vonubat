@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=Software+engineering+is+the+part+of+computer+science%3Bwhich+is+too+difficult+for+the+computer+scientist.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Thoroughly+testing+a+program+is+impossible+%28requires%3Bunbounded+number+of+test+cases%29%3B+so+try+to+choose+test%3Bcases+that+will+expose+all+errors.+That%E2%80%99s+very%3Bdifficult%2C+especially+since+we+do+not+know+what+all+the%3Berrors+are%2C+and+if+we+did%2C+we+would+not+need+the+test%3Bcases%21&multiline=true&height=200)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
