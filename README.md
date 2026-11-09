@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Very+good+professional+programmers+are+ten+times+as%3Bproductive+as+poor+ones%2C+at+same+training+and+two-year%3Bexperience+level.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=Chemical+engineers+learned+long+ago+that+a+process+that%3Bworks+in+the+laboratory+cannot+be+implemented+in+a%3Bfactory+in+only+one+step.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
