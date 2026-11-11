@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=First%2C+we+must+observe+that+the+anomaly+is+not+that%3Bsoftware+progress+is+so+slow+but+that+computer+hardware%3Bprogress+is+so+fast.+No+other+technology+since%3Bcivilization+began+has+seen+six+orders+of+magnitude%3Bprice-performance+gain+in+30+years.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=The+only+way+for+errors+to+occur+in+a+program+is+by%3Bbeing+put+there+by+the+author.+No+other+mechanisms+are%3Bknown.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
