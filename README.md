@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=The+only+way+for+errors+to+occur+in+a+program+is+by%3Bbeing+put+there+by+the+author.+No+other+mechanisms+are%3Bknown.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=652&lines=A+language+that+doesn%E2%80%99t+have+everything+is+actually%3Beasier+to+program+in+than+some+that+do.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
