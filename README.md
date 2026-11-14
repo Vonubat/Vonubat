@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=One+of+the+important+implications+of+technical+debt+is%3Bthat+it+must+be+serviced.+If+the+debt+grows+large%3Benough%2C+eventually+the+company+will+spend+more+on%3Bservicing+its+debt+than+it+invests+in+increasing+the%3Bvalue+of+its+other+assets.&multiline=true&height=170)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=Testing+can+be+a+very+effective+way+to+show+the%3Bpresence+of+bugs%2C+but+it+is+hopelessly+inadequate+for%3Bshowing+their+absence.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
