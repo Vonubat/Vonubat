@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=There+are+some+basic+techniques+to+control+complexity.%3BFundamentally%2C+I+divide+and+conquer%2C+break+things+down%2C%3Band+try+to+write+reasonably+precise+descriptions+of%3Bwhat+each+piece+is+supposed+to+do.&multiline=true&height=140)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Are+you+quite+sure+that+all+those+bells+and+whistles%2C%3Ball+those+wonderful+facilities+of+your+so+called%3Bpowerful+programming+languages%2C+belong+to+the+solution%3Bset+rather+than+the+problem+set%3F&multiline=true&height=140)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
