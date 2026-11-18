@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Are+you+quite+sure+that+all+those+bells+and+whistles%2C%3Ball+those+wonderful+facilities+of+your+so+called%3Bpowerful+programming+languages%2C+belong+to+the+solution%3Bset+rather+than+the+problem+set%3F&multiline=true&height=140)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=You+can%E2%80%99t+trust+code+that+you+did+not+totally+create%3Byourself.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
