@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=664&lines=You+can%E2%80%99t+trust+code+that+you+did+not+totally+create%3Byourself.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=I%27m+convinced+that+about+half+of+what+separates+the%3Bsuccessful+entrepreneurs+from+the+non-successful+ones%3Bis+pure+perseverance.+It+is+so+hard.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
