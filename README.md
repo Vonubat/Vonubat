@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=700&lines=When+debugging%2C+novices+insert+corrective+code%3B+experts%3Bremove+defective+code.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=The+techniques+of+artificial+intelligence+are+to+the%3Bmind+what+bureaucracy+is+to+human+social+interaction.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
