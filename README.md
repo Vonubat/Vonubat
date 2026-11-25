@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=688&lines=Sometimes+it%E2%80%99s+just+easier+to+throw+a+system+away%2C+and%3Bstart+over.&multiline=true&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=640&lines=If+we%E2%80%99d+asked+the+customers+what+they+wanted%2C+they%3Bwould+have+said+%E2%80%9Cfaster+horses%E2%80%9D.&multiline=true&height=80)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
