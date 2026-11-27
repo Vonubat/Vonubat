@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=604&lines=Reliable+computations+are+obtainable+from+buggy%3Bprograms%2C+which+after+all%2C+are+the+only+kind+of%3Bprograms+there+are.&multiline=true&height=110)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC644&width=676&lines=Testing+can+be+a+very+effective+way+to+show+the%3Bpresence+of+bugs%2C+but+it+is+hopelessly+inadequate+for%3Bshowing+their+absence.&multiline=true&height=110)](https://git.io/typing-svg)
 
 #### 📫 How to reach me:
 
